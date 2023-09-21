@@ -1,4 +1,4 @@
-# Variational Auto Encoder and Application in Topic Modeling (a self-learning project) 
+# An tutorial of Variational Auto Encoder and Application in Topic Modeling (a self-learning project) 
 I create notebooks related to this topics for my own learing about AutoEncoder, Variational AutoEncoder and their application in topic modeling. 
 
 - Notebook 1: "autoencoder_with_single_dense_layer"
